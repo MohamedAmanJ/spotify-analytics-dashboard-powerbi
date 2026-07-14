@@ -83,19 +83,13 @@ Spotify Streaming Dataset
 
 ### Artist Insights
 
-![Artist]([screenshots/Artist%20Insights.png](https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Artist.png))
+![Artist](https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Artist.png)
 
 ---
 
 ### Audio Insights
 
-![Audio]([screenshots/Audio%20Insights.png](https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Audio.png))
-
----
-
-### Conclusion
-
-![Conclusion](screenshots/Conclusion.png)
+![Audio](https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Audio.png)
 
 ---
 
