@@ -77,7 +77,7 @@ Spotify Streaming Dataset
 
 ### Home Page
 
-![Home]((https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Home.png))
+![Home](https://github.com/MohamedAmanJ/Spotify-Analytics-Dashboard-PowerBi/blob/main/Home.png)
 
 ---
 
